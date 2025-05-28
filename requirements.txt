@@ -8,3 +8,4 @@ langchain==0.3.18
 langchain-community==0.3.17
 nltk==3.9.1
 scikit-learn==1.6.1
+openpyxl==3.1.2
